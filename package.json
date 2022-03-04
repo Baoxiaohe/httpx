@@ -1,6 +1,6 @@
 {
   "name": "httpx-bx",
-  "version": "2.2.8",
+  "version": "2.2.9",
   "description": "http(s) module with power",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
