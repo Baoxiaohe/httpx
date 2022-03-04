@@ -1,6 +1,6 @@
 {
-  "name": "httpx",
-  "version": "2.2.7",
+  "name": "httpx-bx",
+  "version": "2.2.8",
   "description": "http(s) module with power",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JacksonTian/httpx.git"
+    "url": "https://github.com/Baoxiaohe/httpx.git"
   },
-  "author": "Jackson Tian",
+  "author": "pigLoveRabbit",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JacksonTian/httpx/issues"
+    "url": "https://github.com/Baoxiaohe/httpx/issues"
   },
-  "homepage": "https://github.com/JacksonTian/httpx",
+  "homepage": "https://github.com/Baoxiaohe/httpx",
   "devDependencies": {
     "codecov": "^3.8.3",
     "eslint": "^6.6.0",
@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "@types/node": "^14",
+    "agentkeepalive": "^4.2.1",
     "debug": "^4.1.1"
   },
   "files": [

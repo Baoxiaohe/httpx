@@ -2,27 +2,10 @@ httpx
 ===========
 http(s) module with power.
 
-[![NPM version][npm-image]][npm-url]
-[![build status][travis-image]][travis-url]
-[![codecov][cov-image]][cov-url]
-[![David deps][david-image]][david-url]
-[![npm download][download-image]][download-url]
-
-[npm-image]: https://img.shields.io/npm/v/httpx.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/httpx
-[travis-image]: https://img.shields.io/travis/JacksonTian/httpx.svg?style=flat-square
-[travis-url]: https://travis-ci.org/JacksonTian/httpx
-[cov-image]: https://codecov.io/gh/JacksonTian/httpx/branch/master/graph/badge.svg
-[cov-url]: https://codecov.io/gh/JacksonTian/httpx
-[david-image]: https://img.shields.io/david/JacksonTian/httpx.svg?style=flat-square
-[david-url]: https://david-dm.org/JacksonTian/httpx
-[download-image]: https://img.shields.io/npm/dm/httpx.svg?style=flat-square
-[download-url]: https://npmjs.org/package/httpx
-
 ## Installation
 
 ```bash
-$ npm install httpx --save
+$ npm install httpx-bx --save
 ```
 
 ## Usage
